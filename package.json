@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCronier/e-commerce-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCronier/e-commerce-app/issues"
+  },
+  "homepage": "https://github.com/JCronier/e-commerce-app#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.1",
+    "graphql": "^16.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
